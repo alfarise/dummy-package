@@ -1,0 +1,23 @@
+{
+  "name": "@alfarise/dummy-package",
+  "version": "1.0.0",
+  "description": "Simple dummy package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfarise/dummy-package.git"
+  },
+  "keywords": [
+    "dummy",
+    "test"
+  ],
+  "author": "Al Farisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfarise/dummy-package/issues"
+  },
+  "homepage": "https://github.com/alfarise/dummy-package#readme"
+}
